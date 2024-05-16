@@ -3,6 +3,7 @@ dataset will be uploaded soon
 
 # Citation
 This dataset was introduced in the forthcoming paper below:
+```bibtex
 @inproceedings{ashraf-2024-DefaktS:,
   address = {Torino, Italia},
   title = {DeFaktS: A Fine-Grained Dataset for Analyzing Disinformation in German Media

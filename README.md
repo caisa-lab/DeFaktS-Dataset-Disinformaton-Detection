@@ -1,5 +1,4 @@
 # DeFaktS: A German Dataset for Fine-Grained Disinformation Detection through Social Media Framing
-dataset will be uploaded soon
 
 # Citation
 This dataset was introduced in the forthcoming paper below:
